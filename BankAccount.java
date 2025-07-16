@@ -2,7 +2,7 @@ public class BankAccount {
     private String accountNumber;
     private double balance;
 
-    // Getter and Setter
+    
     public String getAccountNumber() {
         return accountNumber;
     }
