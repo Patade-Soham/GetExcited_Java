@@ -2,7 +2,7 @@ class Book {
     String title;
     String author;
 
-    // Constructor
+    
     Book(String title, String author) {
         this.title = title;
         this.author = author;
